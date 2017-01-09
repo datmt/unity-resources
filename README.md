@@ -48,7 +48,7 @@ https://www.assetstore.unity3d.com/en/#!/content/27080 (monsters and pirates, pe
 https://www.assetstore.unity3d.com/en/#!/content/49277 (cars (for racing game))
 https://www.assetstore.unity3d.com/en/#!/content/40252
 https://www.assetstore.unity3d.com/en/#!/content/30532 (great asset for 2d shooter)
-
+https://www.assetstore.unity3d.com/en/#!/content/12324 (endless terrain)
 
 
 
